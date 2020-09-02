@@ -1,2 +1,2 @@
 # Portfolio
-<img src="Akhila.jpg" width=100 height="100"/>
+<img src="Akhila.jpg" width=300 height="300"/>
